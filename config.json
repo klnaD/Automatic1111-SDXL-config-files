@@ -366,7 +366,7 @@
     "extra_options_img2img": [],
     "extra_options_cols": 1,
     "extra_options_accordion": false,
-    "canvas_hotkey_zoom": "Alt",
+    "canvas_hotkey_zoom": "Shift",
     "canvas_hotkey_adjust": "Ctrl",
     "canvas_hotkey_move": "F",
     "canvas_hotkey_fullscreen": "S",
